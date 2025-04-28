@@ -11,6 +11,7 @@
 → Cấu hình Docker Compose để triển khai Mosquitto Broker và các dịch vụ khác qua Docker.
 #### Thư Mục: config/ (Thư mục Docker volume)
 → Chứa config, dữ liệu và log nếu chạy Mosquitto bằng Docker.
+---------------------------------------------
 ### fuxa-devices.json (File của FUXA)
 → File chứa thông tin cấu hình thiết bị cho FUXA
 ### - Thư Mục: mosquitto/ & Các File: .exe, .dll, .conf (File Mosquitto tải về từ web)
