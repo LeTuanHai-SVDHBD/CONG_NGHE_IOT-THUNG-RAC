@@ -13,7 +13,7 @@
 → Chứa config, dữ liệu và log nếu chạy Mosquitto bằng Docker.
 
 ---------------------------------------------
-### fuxa-devices.json (File của FUXA)
+### - fuxa-devices.json (File của FUXA)
 → File chứa thông tin cấu hình thiết bị cho FUXA
 ### - Thư Mục: mosquitto/ & Các File: .exe, .dll, .conf (File Mosquitto tải về từ web)
 → Dùng để chạy Mosquitto broker trực tiếp trên Windows.
