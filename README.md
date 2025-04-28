@@ -9,7 +9,7 @@
 ### Docker Compose
 #### docker-compose.yml (File cấu hình Docker Compose)
 → Cấu hình Docker Compose để triển khai Mosquitto Broker và các dịch vụ khác qua Docker.
-#### Thư Mục: config/, data/, log/ (Thư mục Docker volume)
+#### Thư Mục: config/ (Thư mục Docker volume)
 → Chứa config, dữ liệu và log nếu chạy Mosquitto bằng Docker.
 ### fuxa-devices.json (File của FUXA)
 → File chứa thông tin cấu hình thiết bị cho FUXA
